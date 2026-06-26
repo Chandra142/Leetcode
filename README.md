@@ -9,6 +9,7 @@ SUMMER PEP CLASS
 | [0075-sort-colors](https://github.com/Chandra142/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandra142/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Chandra142/Leetcode/tree/master/0283-move-zeroes) |
+| [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Chandra142/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
@@ -39,6 +40,7 @@ SUMMER PEP CLASS
 ## Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Chandra142/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -51,9 +53,22 @@ SUMMER PEP CLASS
 ## Doubly-Linked List
 |  |
 | ------- |
+| [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Chandra142/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Chandra142/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Stack
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
