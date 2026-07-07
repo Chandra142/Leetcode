@@ -11,6 +11,7 @@ SUMMER PEP CLASS
 | [0283-move-zeroes](https://github.com/Chandra142/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Chandra142/Leetcode/tree/master/0506-relative-ranks) |
 | [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
+| [1642-furthest-building-you-can-reach](https://github.com/Chandra142/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Chandra142/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@ SUMMER PEP CLASS
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Chandra142/Leetcode/tree/master/0506-relative-ranks) |
+| [1642-furthest-building-you-can-reach](https://github.com/Chandra142/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Chandra142/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -93,4 +95,8 @@ SUMMER PEP CLASS
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Chandra142/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Greedy
+|  |
+| ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/Chandra142/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 <!---LeetCode Topics End-->
