@@ -8,6 +8,7 @@ SUMMER PEP CLASS
 | [0051-n-queens](https://github.com/Chandra142/Leetcode/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/Chandra142/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandra142/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/Chandra142/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Chandra142/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Chandra142/Leetcode/tree/master/0506-relative-ranks) |
 | [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
@@ -31,6 +32,7 @@ SUMMER PEP CLASS
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandra142/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0275-h-index-ii](https://github.com/Chandra142/Leetcode/tree/master/0275-h-index-ii) |
 ## Sorting
 |  |
 | ------- |
