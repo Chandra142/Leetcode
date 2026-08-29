@@ -5,6 +5,7 @@ SUMMER PEP CLASS
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chandra142/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Chandra142/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Chandra142/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chandra142/Leetcode/tree/master/0075-sort-colors) |
@@ -27,6 +28,7 @@ SUMMER PEP CLASS
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chandra142/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Chandra142/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandra142/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Chandra142/Leetcode/tree/master/0283-move-zeroes) |
@@ -71,6 +73,7 @@ SUMMER PEP CLASS
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chandra142/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandra142/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
 ## Design
@@ -110,5 +113,10 @@ SUMMER PEP CLASS
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Chandra142/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Chandra142/Leetcode/tree/master/0053-maximum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Chandra142/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
