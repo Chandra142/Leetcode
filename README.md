@@ -6,6 +6,7 @@ SUMMER PEP CLASS
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Chandra142/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Chandra142/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Chandra142/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandra142/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Chandra142/Leetcode/tree/master/0275-h-index-ii) |
@@ -102,4 +103,12 @@ SUMMER PEP CLASS
 |  |
 | ------- |
 | [1642-furthest-building-you-can-reach](https://github.com/Chandra142/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Chandra142/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Chandra142/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
