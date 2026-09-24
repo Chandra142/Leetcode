@@ -13,6 +13,7 @@ SUMMER PEP CLASS
 | [0275-h-index-ii](https://github.com/Chandra142/Leetcode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Chandra142/Leetcode/tree/master/0283-move-zeroes) |
 | [0506-relative-ranks](https://github.com/Chandra142/Leetcode/tree/master/0506-relative-ranks) |
+| [0704-binary-search](https://github.com/Chandra142/Leetcode/tree/master/0704-binary-search) |
 | [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
 | [1642-furthest-building-you-can-reach](https://github.com/Chandra142/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Chandra142/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -37,6 +38,7 @@ SUMMER PEP CLASS
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chandra142/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/Chandra142/Leetcode/tree/master/0275-h-index-ii) |
+| [0704-binary-search](https://github.com/Chandra142/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
