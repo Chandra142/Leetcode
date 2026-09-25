@@ -121,4 +121,8 @@ SUMMER PEP CLASS
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chandra142/Leetcode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Chandra142/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
