@@ -126,6 +126,7 @@ SUMMER PEP CLASS
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Chandra142/Leetcode/tree/master/0197-rising-temperature) |
+| [0577-employee-bonus](https://github.com/Chandra142/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Chandra142/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Chandra142/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Chandra142/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
