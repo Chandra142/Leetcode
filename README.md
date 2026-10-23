@@ -129,6 +129,7 @@ SUMMER PEP CLASS
 | [0577-employee-bonus](https://github.com/Chandra142/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Chandra142/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Chandra142/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/Chandra142/Leetcode/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Chandra142/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Chandra142/Leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Chandra142/Leetcode/tree/master/1683-invalid-tweets) |
