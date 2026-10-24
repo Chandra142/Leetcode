@@ -27,6 +27,7 @@ SUMMER PEP CLASS
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Chandra142/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/Chandra142/Leetcode/tree/master/0058-length-of-last-word) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandra142/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@ SUMMER PEP CLASS
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chandra142/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Chandra142/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Chandra142/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1472-design-browser-history](https://github.com/Chandra142/Leetcode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
